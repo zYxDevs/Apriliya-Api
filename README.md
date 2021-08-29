@@ -1,6 +1,6 @@
 
-![APRILIYA-API](https://telegra.ph/file/c793578cfabf67d292dd0.png)
-# APRILIYA - AAPI's
+![YOGA-API](https://telegra.ph/file/c793578cfabf67d292dd0.png)
+# YOGA - API's
 <p align="center">
 <a href="https://github.com/LoliKillers/Apriliya-Api/network/members" alt="GitHub stars"> <img src="https://img.shields.io/github/stars/LoliKillers/Apriliya-Api?style=flat&logo=github&color=yellow" /> </a>
 <a href="https://github.com/LoliKillers/Apriliya-Api/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LoliKillers/Apriliya-Api" /> </a>
@@ -22,7 +22,7 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" /> </a>
 </p>
 
-## APRILIYA Rest Api
+## YOGA Rest Api
 
 Repository ini saya buat hanya untuk membantu mereka yang ingin memiliki rest api website sendiri
 
