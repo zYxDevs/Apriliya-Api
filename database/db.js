@@ -3,7 +3,7 @@ var __path = process.cwd(),
      { color } = require(__path + '/lib/color.js')
 
 // Connection URL
-var url = 'isi dengan url database mongodb';
+var url = 'mongodb+srv://asuna:asuna123@cluster0.9zv2k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 try {
 if(url == 'isi dengan url database mongodb') throw console.log(color('Configurasi database, var url belum diisi','red'));
 } catch (e) {
